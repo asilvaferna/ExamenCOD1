@@ -16,7 +16,14 @@ public class ExCOD {
      */
     public static void main(String[] args) {
         System.out.println("Commit A");
+
         System.out.println("Estamos en la master");
+
+        String mensaje = "Nueva rama";
+        System.out.println("Mensaje: " + mensaje);
+        }
+
     }
     
-}
+
+
